@@ -1,6 +1,11 @@
 *{
     font-family: monospace;
 }
+body{
+    margin: 50px;
+    border: 2px solid yellowgreen;
+    background-color: lightsalmon;
+}
 
 .navBar{
     bordeR: solid red;
